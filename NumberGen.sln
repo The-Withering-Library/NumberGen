@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32126.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "NumberGenUI", "NumberGenUI\NumberGenUI.vbproj", "{7006C1E3-91A5-422D-9A7B-B899B4752F8E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7006C1E3-91A5-422D-9A7B-B899B4752F8E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7006C1E3-91A5-422D-9A7B-B899B4752F8E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7006C1E3-91A5-422D-9A7B-B899B4752F8E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7006C1E3-91A5-422D-9A7B-B899B4752F8E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4D8722B9-92C9-4E39-842F-9D54EB40929A}
+	EndGlobalSection
+EndGlobal
